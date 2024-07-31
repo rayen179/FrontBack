@@ -1,0 +1,32 @@
+.error{
+  font-size: 0.9rem;
+  color: rgb(230, 34, 34);
+  margin-top: 0.000001rem;
+  margin-bottom: 1rem;
+}
+
+/* styles.css or styles.scss */
+.toast-success {
+  background-color: #4caf50 !important; /* Green background */
+  color: white !important; /* White text */
+  border: 2px solid #388e3c; /* Darker green border */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Box shadow for depth */
+  padding: 16px; /* Padding for space inside */
+}
+
+.toast-success .toast-message {
+  font-size: 16px; /* Increase font size */
+  font-weight: bold; /* Bold text */
+  text-align: center; /* Center text */
+}
+
+.toast-success .toast-title {
+  font-size: 18px; /* Larger font size for title */
+  font-weight: 600; /* Semi-bold title */
+}
+
+.toast-success .toast-close-button {
+  color: white !important; /* White close button */
+  font-size: 20px; /* Larger close button */
+}

@@ -1,0 +1,86 @@
+<div class="page-content"></div>
+
+    <div class="html">
+      <div class="body">
+
+        <div class="testbox">
+          <form [formGroup]="fedbackForm" (ngSubmit)="onSubmit()">
+            <div class="banner">
+              <h1>Employee Availability Form</h1>
+            </div>
+            <div class="item">
+              <label for="name">Name </label>
+
+                <input id="name" type="text" name="name" pattern="^[A-Za-z\s]+$" />
+
+
+            </div>
+            <div class="item">
+              <label for="email">Email</label>
+              <input id="email" type="email" pattern="[^@]+@[^@]+.[a-zA-Z]{2,6}" name="email" />
+            </div>
+            <p class="p">General Questions:</p>
+            <div class="item">
+              <label for="bdate">Schedule for Week Beginning Monday<span>*</span></label>
+              <input id="bdate"  type="date" name="bdate" required/>
+              <i class="fas fa-calendar-alt"></i>
+            </div>
+
+            <div class="item">
+              <div class="name-item">
+                <div>
+                  <label for="monday">How would you rate your overall satisfaction with the company on a scale of 1 to 10?</label>
+                  <input id="monday" type="text" name="name" pattern="^[A-Za-z\s]+$"/>
+                </div>
+                <div>
+                  <label for="tuesday">What is your general impression of the work environment?</label>
+                  <textarea id="tuesday" type="text" name="name" pattern="^[A-Za-z\s]+$" ></textarea>
+                </div>
+              </div>
+            </div>
+            <p class="p">Questions about the Work Environment:</p>
+            <div class="item">
+              <div class="name-item">
+                <div>
+                  <label for="wednesday">How would you describe the general atmosphere at work?</label>
+                  <input id="wednesday" type="text" pattern="^[A-Za-z\s]+$" name="name" />
+                </div>
+                <div>
+                  <label for="thursday">Are there any aspects of the work environment that you particularly appreciate?</label>
+                  <input id="thursday" type="text" pattern="^[A-Za-z\s]+$" name="name" />
+                </div>
+              </div>
+            </div>
+            <p class="p">Questions about Communication:</p>
+            <div class="item">
+              <div class="name-item">
+                <div>
+                  <label for="friday">How do you rate the communication within your team and with your supervisors?</label>
+                  <input id="friday" type="text" pattern="^[A-Za-z\s]+$" name="name" />
+                </div>
+                <div>
+                  <label for="saturday">Do you have any suggestions for improving internal communication?</label>
+                  <input id="saturday" type="text" pattern="^[A-Za-z\s]+$" name="name" />
+                </div>
+              </div>
+
+            </div>
+            <p class="p" >Questions about Management:</p>
+            <div class="item">
+              <label for="sunday">How would you rate the support and leadership from your supervisors?</label>
+              <input id="sunday" type="text" pattern="^[A-Za-z\s]+$" name="language"/>
+            </div>
+            <div class="item">
+              <label for="comment">Are there any actions you would like to see from management to improve your work experience?</label>
+              <textarea id="comment" pattern="^[A-Za-z\s]+$" rows="3"></textarea>
+            </div>
+            <div class="btn-block">
+              <button type="submit" (click)="showSuccess()" >Send</button>
+            </div>
+          </form>
+        </div>
+      <div class="body">
+    <div class="html">
+
+</div>
+

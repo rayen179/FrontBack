@@ -3,7 +3,7 @@
   <div class="form-v4-content">
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
-//////////////////
+
 
 
 required pattern="[^@]+@[^@]+.[a-zA-Z]{2,6}"

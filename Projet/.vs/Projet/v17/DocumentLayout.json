@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAYEN\\source\\repos\\Projet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\migrations\\data\\20240731110908_inisialquestionresonse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\migrations\\data\\20240731110908_inisialquestionresonse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\projet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\projet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\migrations\\20240705143639_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\migrations\\20240705143639_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|c:\\users\\rayen\\source\\repos\\projet\\projet\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33AC46-BC85-4FBD-8E8A-9E9AD2D1BFEE}|Projet\\Projet.csproj|solutionrelative:projet\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\App2Db\\20240723170808_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projet\\Migrations\\App2Db\\20240723170808_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\App2Db\\20240723161734_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projet\\Migrations\\App2Db\\20240723161734_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\App2Db\\20240723111052_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projet\\Migrations\\App2Db\\20240723111052_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "Projet\\Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "Projet\\Controllers\\QuestionsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:21:14.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Answer.cs",
+              "RelativeDocumentMoniker": "Projet\\Answer.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Answer.cs",
+              "RelativeToolTip": "Projet\\Answer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:20:31.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Question.cs",
+              "RelativeDocumentMoniker": "Projet\\Question.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Question.cs",
+              "RelativeToolTip": "Projet\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:20:50.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\DataContext.cs",
+              "RelativeDocumentMoniker": "Projet\\DataContext.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\DataContext.cs",
+              "RelativeToolTip": "Projet\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:19:19.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240731110908_InisialQuestionResonse.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\Data\\20240731110908_InisialQuestionResonse.cs",
+              "RelativeDocumentMoniker": "Projet\\Migrations\\Data\\20240731110908_InisialQuestionResonse.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\Data\\20240731110908_InisialQuestionResonse.cs",
+              "RelativeToolTip": "Projet\\Migrations\\Data\\20240731110908_InisialQuestionResonse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:09:09.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projet.csproj",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Projet.csproj",
+              "RelativeDocumentMoniker": "Projet\\Projet.csproj",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Projet.csproj",
+              "RelativeToolTip": "Projet\\Projet.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T14:14:47.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Program.cs",
+              "RelativeDocumentMoniker": "Projet\\Program.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Program.cs",
+              "RelativeToolTip": "Projet\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAADwv3sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:04:11.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\appsettings.json",
+              "RelativeDocumentMoniker": "Projet\\appsettings.json",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\appsettings.json",
+              "RelativeToolTip": "Projet\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwsAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T14:11:55.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "Projet\\Data\\Employee.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Data\\Employee.cs",
+              "RelativeToolTip": "Projet\\Data\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:05:55.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Projet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Projet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:46:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240705143639_Initial Setup.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\20240705143639_Initial Setup.cs",
+              "RelativeDocumentMoniker": "Projet\\Migrations\\20240705143639_Initial Setup.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\20240705143639_Initial Setup.cs",
+              "RelativeToolTip": "Projet\\Migrations\\20240705143639_Initial Setup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:36:39.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Projet\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Projet\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:33:15.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Projet\\Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "Projet\\Data\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:19:01.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240723170808_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\App2Db\\20240723170808_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Projet\\Migrations\\App2Db\\20240723170808_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\App2Db\\20240723170808_InitialCreate.cs",
+              "RelativeToolTip": "Projet\\Migrations\\App2Db\\20240723170808_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:08:09.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240723161734_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\App2Db\\20240723161734_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Projet\\Migrations\\App2Db\\20240723161734_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\App2Db\\20240723161734_InitialCreate.cs",
+              "RelativeToolTip": "Projet\\Migrations\\App2Db\\20240723161734_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:17:35.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240723111052_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\App2Db\\20240723111052_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Projet\\Migrations\\App2Db\\20240723111052_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\RAYEN\\source\\repos\\Projet\\Projet\\Migrations\\App2Db\\20240723111052_InitialCreate.cs",
+              "RelativeToolTip": "Projet\\Migrations\\App2Db\\20240723111052_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:10:52.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
